@@ -1,10 +1,15 @@
-This is a tutorial I'd like to keep handy on using components and state in React.
+[![Last Commit](https://img.shields.io/github/last-commit/jessicablank/)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)]
+
+This is a tutorial on using components and state in React.
 
 Tutorial Source: [https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components] (https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components)
 
 # More Details
+* [About](#about)
+* [Local Installation](#local-installation)
 
-* [Local Installation](local-installation)
+# About
 
 
 # Local Installation
