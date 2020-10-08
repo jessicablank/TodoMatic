@@ -1,5 +1,5 @@
-[![Last Commit](https://img.shields.io/github/last-commit/jessicablank/TodoMatic)]
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)]
+![Last Commit](https://img.shields.io/github/last-commit/jessicablank/TodoMatic)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a tutorial on using components and state in React.
 
@@ -10,7 +10,14 @@ Tutorial Source: [MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_
 * [Local Installation](#local-installation)
 
 # About
+This was a tutorial I came across while working on my final group project during coding bootcamp. The Todos are currently stored in the browser session, so any edits will not persist if the browser is reloaded. This tutorial inspired me to add a task counter to my Martian Task List for SPACEBOOK. [https://github.com/jessicablank/spacebook-mars](https://github.com/jessicablank/spacebook-mars)
 
+## This Project: ToDo Matic
+![TodoMatic](./TodoMatic.PNG)
+
+
+## My Final Project: SPACEBOOK
+![Final Project](./Spacebook.PNG)
 
 # Local Installation
 
