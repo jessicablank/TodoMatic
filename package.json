@@ -2,7 +2,7 @@
   "name": "TodoMatic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jessicablank.github.io/TodoMatic",
+  "homepage": "https://jessicablank.github.io/TodoMatic",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
