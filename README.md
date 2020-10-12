@@ -14,7 +14,7 @@ I came across this tutorial while working on a notes component for my final grou
 
 This tutorial inspired me to add a task counter to my Martian Task List for SPACEBOOK. [https://github.com/jessicablank/spacebook-mars](https://github.com/jessicablank/spacebook-mars "GitHub Repo for final group project")
 
-## This Project: Todo Matic
+## This Project: TodoMatic
 ![TodoMatic](./TodoMatic.gif "Gif Demo Showing TodoMatic Functionality to Create, Read, Update, Delete")
 
 
