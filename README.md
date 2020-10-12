@@ -1,29 +1,31 @@
-![Last Commit](https://img.shields.io/github/last-commit/jessicablank/TodoMatic)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/jessicablank/TodoMatic "Last Commit Badge")
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License Badge")
 
-This is a tutorial on using components and state in ReactJS. You can view the result in browser at [https://jessicablank.github.io/TodoMatic/](https://jessicablank.github.io/TodoMatic/)
+This is a tutorial on using components and state in ReactJS. You can view the result in browser at [https://jessicablank.github.io/TodoMatic/](https://jessicablank.github.io/TodoMatic/ "Github Pages Deployed TodoMatic")
 
-Tutorial Source: [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components)
+Tutorial Source: [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components "MDN React Components Tutorial")
 
 # More Details
-* [About](#about)
-* [Local Installation](#local-installation)
+* [About](#about "About Section")
+* [Local Installation](#local-installation "Local Installation Guide")
 
 # About
-I came across this tutorial while working on a notes component for my final group project during coding bootcamp.This is a client-side application. The Todo's are currently stored in the browser session, so edits will not persist upon reload. 
+I came across this tutorial while working on a notes component for my final group project during coding bootcamp.This is a client-side application. The Todo's are currently stored in the browser session. Updates will not persist upon reload. 
 
-This tutorial inspired me to add a task counter to my Martian Task List for SPACEBOOK. [https://github.com/jessicablank/spacebook-mars](https://github.com/jessicablank/spacebook-mars)
+This tutorial inspired me to add a task counter to my Martian Task List for SPACEBOOK. [https://github.com/jessicablank/spacebook-mars](https://github.com/jessicablank/spacebook-mars "GitHub Repo for final group project")
 
 ## This Project: Todo Matic
-![TodoMatic](./TodoMatic.gif)
+![TodoMatic](./TodoMatic.gif "Gif Demo Showing TodoMatic Functionality to Create, Read, Update, Delete")
 
 
 ## My Final Project: SPACEBOOK
-![Final Project](./Spacebook.PNG)
+![Final Project](./Spacebook.PNG "Image of SPACEBOOK Martian Task List Showing 11 Tasks Remaining")
 
 # Local Installation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You can fork, download, or clone and then run `npm i` or `yarn` to install dependencies.
 
 ## Available Scripts
 
