@@ -6,8 +6,8 @@ import * as serviceWorker from './serviceWorker';
 
 const DATA = [
   { id: "todo-0", name: "Eat", completed: true },
-  { id: "todo-1", name: "Sleep", completed: false },
-  { id: "todo-2", name: "Code", completed: false },
+  { id: "todo-1", name: "Code", completed: false },
+  { id: "todo-2", name: "Sleep", completed: false },
   { id: "todo-3", name: "Repeat", completed: false }
 ];
 
